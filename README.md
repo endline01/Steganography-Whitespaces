@@ -6,7 +6,7 @@ White spaces is a steganography technique used to hide data inside texts or file
 And this tool used to decode whitespaces from files that stegsnow/snow tool can't decode it.
 
 ## Requirements
-* python Python 3.10.8
+* Python 3.10.8
 * <a href="https://docs.pwntools.com/en/stable/install.html">pwntools</a>
 
 ## Usage example
